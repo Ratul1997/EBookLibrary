@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EBookLibrary/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/EBookLibrary/static/js/main.5b7cddbf.chunk.js",
+    "main.js.map": "/EBookLibrary/static/js/main.5b7cddbf.chunk.js.map",
+    "runtime-main.js": "/EBookLibrary/static/js/runtime-main.159d8ae4.js",
+    "runtime-main.js.map": "/EBookLibrary/static/js/runtime-main.159d8ae4.js.map",
+    "static/js/2.da48a648.chunk.js": "/EBookLibrary/static/js/2.da48a648.chunk.js",
+    "static/js/2.da48a648.chunk.js.map": "/EBookLibrary/static/js/2.da48a648.chunk.js.map",
+    "static/js/3.7f3de288.chunk.js": "/EBookLibrary/static/js/3.7f3de288.chunk.js",
+    "static/js/3.7f3de288.chunk.js.map": "/EBookLibrary/static/js/3.7f3de288.chunk.js.map",
+    "index.html": "/EBookLibrary/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/EBookLibrary/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.da48a648.chunk.js.LICENSE.txt": "/EBookLibrary/static/js/2.da48a648.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/EBookLibrary/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.159d8ae4.js",
+    "static/js/2.da48a648.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.5b7cddbf.chunk.js"
+  ]
+}
