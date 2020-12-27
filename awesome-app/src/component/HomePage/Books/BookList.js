@@ -25,7 +25,7 @@ class BookList extends React.Component {
                     {bookData &&
                       bookData.map((item, key) => {
                         return (
-                          <BookItem item={item} key/>
+                          <BookItem item={item} key={key}/>
                         );
                       })}
                   </ul>
